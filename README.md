@@ -36,6 +36,8 @@ Enjoy! :D
 
 Java
 
+JDA (Java Discord API)
+
 Adoptium
 
 A config file
