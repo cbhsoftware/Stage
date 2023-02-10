@@ -43,3 +43,5 @@ A config file
 JSON
 
 my computer (to make and host the bot)
+
+<img title="The proper music discord bot!" alt="Alt text" src="/images/jar.png">
