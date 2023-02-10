@@ -34,7 +34,7 @@ Enjoy! :D
 
 # Stuff Used To Code It
 
-`Java
+Java
 
 Adoptium
 
@@ -42,4 +42,4 @@ A config file
 
 JSON
 
-my computer (to make and host the bot)`
+my computer (to make and host the bot)
