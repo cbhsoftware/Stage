@@ -1,1 +1,1 @@
-# rush
+# Rush Discord Music Bot
