@@ -15,6 +15,8 @@ After the shutdown of Rythm and Groovy (some of Discord's BEST music bots at the
 Rush is avalible only in beta in Pingu's Discord server, which you can join [right here.](https://discord.gg/h5yapNjDGb)
 It is currently in 1.0.0 (the first release) you can check out the .jar file in the releases page on this repo.
 
+Update 1.1: It is also avalible on my [personal discord server](https://discord.gg/uPxzteAtPj)
+
 # Q&A
 
 Q: What languages were used to make Rush?
