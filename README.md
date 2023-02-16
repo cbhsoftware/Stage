@@ -1,4 +1,4 @@
-# Rush Discord Music Bot
+# Stage Discord Music Bot
 
 <img title="The proper music discord bot!" alt="Alt text" src="/images/profile.png">
 
@@ -31,7 +31,7 @@ A: Simple! Just type `!!help` in #vc-chat in Pingu's server! Or `r!help` in CBH'
 
 # Conclusion
 
-For a recap, Rush is a discord music bot coded in Java and JSON. Once again, we don't know when we will release it to the public as a stable release.
+For a recap, Stage is a discord music bot coded in Java and JSON. Once again, we don't know when we will release it to the public as a stable release.
 
 Enjoy! :D
 
